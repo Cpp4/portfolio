@@ -1,0 +1,85 @@
+#image 
+{
+    width: 100px;
+    height: 100px;
+    margin-left: 15px;
+    margin-top: 5px;
+    border-radius:30px;
+    
+}
+
+#Searchbox
+{
+    margin-top:20px;margin-left:200px; width:500px
+
+}
+body{
+    margin:0px;padding: 0px;
+}
+
+.main_div
+{
+    background-color: orangered;
+    
+}
+#Aboutbut
+{
+    margin-left:50px;
+}
+#Contactbut
+{
+    margin-left: 50px;
+    margin-right: 15px;
+
+}
+#main_but
+{
+    float:right;overflow:auto;margin-top:20px; margin-right: 60px;
+}
+
+#Intro_head
+{
+    text-align: center;
+    font-weight:bolder;
+    font-size: 28px;
+    background-color:blanchedalmond;
+    text-decoration: underline;
+    font-style: italic;
+}
+#Intro_body
+{   
+    background-color:blanchedalmond;
+    
+}
+
+#About_head
+{
+    text-align: center;
+    font-weight:bolder;
+    font-size: 28px;
+    background-color:rgb(205, 235, 255);
+    text-decoration: underline;
+    font-style: italic;
+}
+
+#About_body
+{
+    background-color: rgb(205, 235, 255);
+    overflow: auto;
+    
+}
+
+#Contact_Head
+{
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight:bolder;
+    font-size: 28px;
+    background-color:rgb(216, 255, 205);
+}
+
+#Contact_Body
+{
+    background-color:rgb(216, 255, 205);
+}
